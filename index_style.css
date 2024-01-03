@@ -40,7 +40,7 @@ section {
 	flex: 0 0 80%;
 }
 
-#kill_me {
+#perfume_image {
 	object-fit: cover;
 	border-top-left-radius: 20px;
 	border-bottom-left-radius: 20px;
@@ -123,7 +123,7 @@ button:active {
 		margin-bottom: 20px;
 	}
 
-	#kill_me {
+	#perfume_image {
 		max-width: 600px;
 		height: 100%;
 		border-top-left-radius: 20px;
